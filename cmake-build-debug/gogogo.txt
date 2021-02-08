@@ -1,0 +1,3 @@
+test.txt was succesfully fetched 
+The number of lines in our file is : 19
+The number of lines in our file is : 19
